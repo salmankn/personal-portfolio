@@ -1,7 +1,7 @@
 # personal-portfolio
 Personal-Portfolio was made to check weather I can able to upload entire project into one shot or not.
 
-But it happened due to further instruction provided by githum itself.
+But it happened due to further instruction provided by github itself.
 
 Personal-portfolio is about my resume or CV information.
 
